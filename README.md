@@ -48,6 +48,6 @@ Hello, this simple console project you have seen calculates your grade point ave
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [Grade Point Average Calculation](https://github.com/Melik-B/GradePointAverageCalculation)
 
 <p align="right">-Melik Baykal</p>
